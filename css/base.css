@@ -1,0 +1,6 @@
+/* Base Super Mario CSS3/jQuery/HTML5 */
+HTML, BODY { height: 100%; overflow: hidden; }
+
+.wrap_world { height: 100%; position: relative; }
+
+playground { display: block; height: 100%; position: relative; z-index: 20; }
