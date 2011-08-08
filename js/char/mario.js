@@ -98,7 +98,7 @@ var dTimeout;
 				mL = false;
 				break;
 			case 38:
-				mU = false;
+				mU = mB = false;
 				break;
 			case 39:				
 				mario.removeClass('left walk').addClass('right');
